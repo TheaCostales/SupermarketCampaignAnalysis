@@ -1,5 +1,5 @@
 ## Problem Statement – Supermarket Campaign Analysis
-* ABC Supermarket is planning for the year-end sale - they want to launch a new offer i.e. gold membership for only $499 that is of $999 on normal days(that gives 20% discount on all purchases) only for existing customers, for that they need to do a campaign through phone calls - the best way to reduce the cost of the campaign is to make a predictive model to classify customers who might purchase the offer, using the data they gathered during last year's campaign.
+* The Supermarket is planning for the year-end sale - they want to launch a new offer i.e. gold membership for only $499 that is of $999 on normal days(that gives 20% discount on all purchases) only for existing customers, for that they need to do a campaign through phone calls - the best way to reduce the cost of the campaign is to make a predictive model to classify customers who might purchase the offer, using the data they gathered during last year's campaign.
 
 
 * We will build a model for classifying whether customers will reply with a positive response or not.
