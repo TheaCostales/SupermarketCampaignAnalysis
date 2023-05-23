@@ -11,7 +11,7 @@
 The data-set aims to answer the following key questions:
 * What are the different factors which affect the target variable?
 * How can we improve model performance using hyperparameter tuning and prevent data leakage using pipelines while building a model to predict the response of a customer? 
-What business recommendations can we give based on the analysis?
+* What business recommendations can we give based on the analysis?
 
 **Data Dictionary:**
 
