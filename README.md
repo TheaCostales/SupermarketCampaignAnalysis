@@ -8,8 +8,8 @@
 * We will build a model for classifying whether customers will reply with a positive response or not.
 
 **Problem:**
-* The data-set aims to answer the following key questions:
-What are the different factors which affect the target variable?
+The data-set aims to answer the following key questions:
+* What are the different factors which affect the target variable?
 * How can we improve model performance using hyperparameter tuning and prevent data leakage using pipelines while building a model to predict the response of a customer? 
 What business recommendations can we give based on the analysis?
 
