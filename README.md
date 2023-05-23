@@ -1,7 +1,7 @@
 # Supermarket Campaign Analysis
-## Data Source: https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset?resource=download
+#### Data Source: https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset?resource=download
 
-### Problem Statement
+#### Problem Statement
 * The Supermarket is planning for the year-end sale - they want to launch a new offer i.e. gold membership for only $499 that is of $999 on normal days(that gives 20% discount on all purchases) only for existing customers, for that they need to do a campaign through phone calls - the best way to reduce the cost of the campaign is to make a predictive model to classify customers who might purchase the offer, using the data they gathered during last year's campaign.
 
 
