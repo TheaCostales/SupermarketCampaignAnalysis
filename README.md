@@ -42,3 +42,15 @@ The data contains characteristics of the people
 | ID         | unique customer-id                                                 |
 | Year_Birth          | customer's year of birth                                           |
 
+#### Solution Expectations
+
+* Import Libraries and Load Dataset
+* Overview of data
+* Data Visualization and EDA
+* Data preparation
+* Train various models – with comments on why certain models are not doing well
+* Tune models using grid/random search or using statistical analysis
+* Provide recommendations to the business
+* Insights/Conclusion
+
+
