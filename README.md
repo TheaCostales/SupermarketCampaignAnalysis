@@ -46,11 +46,11 @@ The data contains characteristics of the people
 
 * Import Libraries and Load Dataset
 * Overview of data
-* Data Visualization and EDA
+* Exploratory Data Analysis and Data Visualization
 * Data preparation
-* Train various models – with comments on why certain models are not doing well
-* Tune models using grid/random search or using statistical analysis
+* Train various models (with comments on why certain models are not doing well)
+* Tune models using grid/random search
 * Provide recommendations to the business
-* Insights/Conclusion
+* Other insights and Conclusion
 
 
